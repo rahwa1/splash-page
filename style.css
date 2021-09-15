@@ -8,4 +8,20 @@ header {
     /* Sets border to bottom only */
     border-bottom: 10px solid darkblue;
     background-color: green;
+}
+
+h1 {
+    text-align: center;
+    line-height: 100px;
+}
+
+img {
+    /* TODO: Add your code here */
+    margin: 0 auto;
+    display: block;
   }
+
+ul {
+    text-align: right;
+    color: black;
+}
